@@ -704,6 +704,13 @@ const buttonConfigs = [
                 label:  `trustly`,
                 commit: true,
                 valid:  false
+            },
+
+            {
+                layout: `vertical`,
+                label:  `mercadopago`,
+                commit: true,
+                valid:  false
             }
 
 

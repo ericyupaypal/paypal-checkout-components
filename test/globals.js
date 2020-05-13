@@ -91,6 +91,9 @@ export const fundingEligibility = {
     },
     itau: {
         eligible: false
+    },
+    mercadopago: {
+        eligible: false
     }
 };
 

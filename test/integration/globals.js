@@ -91,5 +91,8 @@ window.__TEST_FUNDING_ELIGIBILITY__ = {
     },
     itau: {
         eligible: false
+    },
+    mercadopago: {
+        eligible: false
     }
 };
